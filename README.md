@@ -1,6 +1,6 @@
 # VMware #
 
-  [Download từ trang chủ](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html)
+  [Download VMware từ trang chủ](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html)
 
 ## VMware Workstation 17 Volume License: ##
 
