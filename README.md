@@ -1,5 +1,7 @@
 # VMware #
 
+  [Download từ trang chủ](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html)
+
 ## VMware Workstation 17 Volume License: ##
 
   - MG210-0EK8K-H89Y1-VLAN2-93K20
